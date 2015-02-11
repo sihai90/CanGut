@@ -21,6 +21,10 @@
 /*
  * High loaded stuff by Hans Lermen & Werner Almesberger, Feb. 1996
  */
+/*
+ *@接引
+  http://blog.csdn.net/zeflove/article/details/7614077
+ */
 	.text
 
 #include <linux/init.h>
